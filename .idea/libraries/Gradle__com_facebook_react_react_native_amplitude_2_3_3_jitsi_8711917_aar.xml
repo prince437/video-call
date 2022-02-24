@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-amplitude:2.3.3-jitsi-8711917@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c3169717cf6f971bd8205f25c4e0cda1/jetified-react-native-amplitude-2.3.3-jitsi-8711917/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4e8a8118eebfd7280e1b16cbde6e952a/jetified-react-native-amplitude-2.3.3-jitsi-8711917/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4e8a8118eebfd7280e1b16cbde6e952a/jetified-react-native-amplitude-2.3.3-jitsi-8711917/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4e8a8118eebfd7280e1b16cbde6e952a/jetified-react-native-amplitude-2.3.3-jitsi-8711917/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-amplitude/2.3.3-jitsi-8711917/b8e58b4424ba94ab293944ca2ee0128602ed01ba/react-native-amplitude-2.3.3-jitsi-8711917-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
